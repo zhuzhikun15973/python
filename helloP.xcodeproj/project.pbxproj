@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		6A292D952020A646003B7C02 /* hello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hello.py; sourceTree = "<group>"; };
+		6A292D962020BCEA003B7C02 /* learnpython-zh.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "learnpython-zh.py"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6A292D8A2020A58F003B7C02 = {
 			isa = PBXGroup;
 			children = (
+				6A292D962020BCEA003B7C02 /* learnpython-zh.py */,
 				6A292D952020A646003B7C02 /* hello.py */,
 			);
 			sourceTree = "<group>";
