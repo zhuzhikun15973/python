@@ -27,7 +27,8 @@
 			buildConfigurationList = 6A292D922020A58F003B7C02 /* Build configuration list for PBXLegacyTarget "helloP" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/bin/pyhton;
+			buildToolPath = /usr/bin/python;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = helloP;
